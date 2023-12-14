@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aaron\'s Movies</string>
+    <string name="server_url">https://www.episodate.com/</string>
+    <string name="licensing">&#169; <u>Librairies &amp; licenses</u></string>
+</resources>
